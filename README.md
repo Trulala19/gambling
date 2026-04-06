@@ -1,1 +1,1 @@
-# gambling.github.io
+# gambling
